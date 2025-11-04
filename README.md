@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=160&text=🌸%20Decision%20Tree%20Regression%20🌸&fontColor=8B008B&fontSize=40&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=160&text=🌸%20Decision%20Tree%20🌸&fontColor=8B008B&fontSize=40&animation=twinkling" />
 </p>
 
 ---
